@@ -1,4 +1,3 @@
-```python
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -314,5 +313,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-```
 
